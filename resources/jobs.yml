@@ -1,0 +1,41 @@
+---
+tree-cutter:
+  17:0:break: 4
+  17:1:break: 4
+  17:2:break: 4
+  18:0:break: 4
+  18:1:break: 4
+  18:2:break: 4
+miner:
+  1:0:break: 8
+  4:0:break: 8
+melon:
+  103:0:break: 5
+pumpkin:
+  86:0:break: 5
+melon:
+  103:0:break: 5
+carrot:
+  141:0:break: 1
+potato:
+  142:0:break: 1
+flower:
+  175:0:break: 3
+  175:1:break: 3
+  175:2:break: 3
+  175:3:break: 3
+  175:4:break: 3
+  175:5:break: 3
+  37:0:break: 3
+  38:0:break: 3
+  38:1:break: 3
+  38:2:break: 3
+  38:3:break: 3
+  38:4:break: 3
+  38:5:break: 3
+  38:6:break: 3
+  38:7:break: 3
+  38:8:break: 3
+
+
+...
